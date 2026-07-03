@@ -29,6 +29,7 @@ usage minimal.
 ---
 
 > ⚠️ GitHub raw URLs are suitable for personal blog traffic.
+
 > For high-traffic production use, a dedicated CDN (Cloudflare / Bunny.net) is recommended.
 
 ---
