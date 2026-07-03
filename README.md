@@ -20,6 +20,18 @@ usage minimal.
 
 ---
 
+## 📂 Repository Structure
+
+```text
+blog-images-TTSM/
+├── README.md
+├── Linux-Basics/        # Linux commands, file permissions, shell screenshots
+├── AWS-CloudOps/        # EC2, IAM, S3, networking — console logs & setups
+└── DevOps-Practices/    # Git workflows, CI/CD pipelines, Docker, automation
+```
+
+---
+
 ## 🎯 What This Repository Demonstrates
 
 1. **GitOps for Content Management** — treating blog media as version-controlled assets
